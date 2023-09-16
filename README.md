@@ -1,2 +1,2 @@
-# This is a DBMS project on Petrol Pump Management System
-Hello everyone
+# Hello everyone
+This is a DBMS project on Petrol Pump Management System
