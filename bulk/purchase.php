@@ -173,7 +173,7 @@
 
     <div class="main-panel">
 		  <div class="form-style-10">
-        <h1>Add New Oil Purchase Orderrr</h1>
+        <h1>Add New Oil Purchase Order</h1>
         <form action="<?php echo $_SERVER['PHP_SELF']?>" method="post" >
             <div class="section"></div>
             <div class="inner-wrap">
