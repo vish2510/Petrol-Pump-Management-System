@@ -12,7 +12,7 @@
     <link href='css/allStyle.css' rel='stylesheet' type='text/css'>
 <!-- upto this point     -->
 
-<title>Change the Price Rate</title>
+<title>Change thee Price Rate</title>
 
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
